@@ -1,3 +1,6 @@
 # Working copy of the unzipped project (source of truth is the zip)
 src-extract/
 image-search/
+
+# Connector download scratch
+google_drive/
